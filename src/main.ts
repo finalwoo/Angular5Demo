@@ -1,3 +1,4 @@
+import 'hammerjs' // hammerjs imoprt 추가 
 import { enableProdMode } from '@angular/core';
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 
